@@ -1,0 +1,6 @@
+{
+  "name": "CloudStation - Nube Privada & Git Repos",
+  "description": "Nube privada y plataforma de código estilo GitHub para equipos pequeños, con subida directa de fotos desde el celular, push desde la terminal y despliegue en Railway/ngrok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
